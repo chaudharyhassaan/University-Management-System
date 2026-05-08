@@ -13,15 +13,3 @@ int main()
 	cout << "Testing Fetch";
 	return 0;
 }	
-void myfunc()
-{
-
-}
-void urfunc()
-{
-
-}
-void ourfunc()
-{
-
-}
